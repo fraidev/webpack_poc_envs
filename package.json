@@ -1,0 +1,12 @@
+{
+  "name": "webpack_poc",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.47.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "webpack-cli": "^4.10.0"
+  }
+}
